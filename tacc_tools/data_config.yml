@@ -1,0 +1,1182 @@
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-73399/anat/sub-73399_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-73399/func/sub-73399_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-73399
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-15905/anat/sub-15905_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-15905/func/sub-15905_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-15905
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-62732/anat/sub-62732_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-62732/func/sub-62732_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-62732
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-59729/anat/sub-59729_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-59729/func/sub-59729_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-59729
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-19717/anat/sub-19717_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-19717/func/sub-19717_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-19717
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-50953/anat/sub-50953_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-50953/func/sub-50953_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-50953
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-77598/anat/sub-77598_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-77598/func/sub-77598_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-77598
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-61185/anat/sub-61185_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-61185/func/sub-61185_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-61185
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-92393/anat/sub-92393_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-92393/func/sub-92393_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-92393
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-77337/anat/sub-77337_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-77337/func/sub-77337_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-77337
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-90681/anat/sub-90681_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-90681/func/sub-90681_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-90681
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-64308/anat/sub-64308_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-64308/func/sub-64308_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-64308
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-41814/anat/sub-41814_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-41814/func/sub-41814_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-41814
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-83409/anat/sub-83409_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-83409/func/sub-83409_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-83409
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-86637/anat/sub-86637_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-86637/func/sub-86637_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-86637
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-95187/anat/sub-95187_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-95187/func/sub-95187_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-95187
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-49259/anat/sub-49259_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-49259/func/sub-49259_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-49259
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-99462/anat/sub-99462_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-99462/func/sub-99462_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-99462
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-05306/anat/sub-05306_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-05306/func/sub-05306_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-05306
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-16846/anat/sub-16846_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-16846/func/sub-16846_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-16846
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-00156/anat/sub-00156_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-00156/func/sub-00156_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-00156
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-39065/anat/sub-39065_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-39065/func/sub-39065_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-39065
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-68425/anat/sub-68425_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-68425/func/sub-68425_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-68425
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-51172/anat/sub-51172_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-51172/func/sub-51172_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-51172
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-11388/anat/sub-11388_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-11388/func/sub-11388_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-11388
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-81524/anat/sub-81524_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-81524/func/sub-81524_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-81524
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-62383/anat/sub-62383_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-62383/func/sub-62383_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-62383
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-52442/anat/sub-52442_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-52442/func/sub-52442_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-52442
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-06987/anat/sub-06987_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-06987/func/sub-06987_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-06987
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-51671/anat/sub-51671_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-51671/func/sub-51671_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-51671
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-90059/anat/sub-90059_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-90059/func/sub-90059_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-90059
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-09015/anat/sub-09015_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-09015/func/sub-09015_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-09015
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-65373/anat/sub-65373_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-65373/func/sub-65373_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-65373
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-47231/anat/sub-47231_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-47231/func/sub-47231_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-47231
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-53296/anat/sub-53296_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-53296/func/sub-53296_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-53296
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-61209/anat/sub-61209_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-61209/func/sub-61209_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-61209
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-35430/anat/sub-35430_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-35430/func/sub-35430_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-35430
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-04491/anat/sub-04491_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-04491/func/sub-04491_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-04491
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-50272/anat/sub-50272_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-50272/func/sub-50272_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-50272
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-14183/anat/sub-14183_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-14183/func/sub-14183_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-14183
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-61753/anat/sub-61753_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-61753/func/sub-61753_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-61753
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-13093/anat/sub-13093_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-13093/func/sub-13093_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-13093
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-54846/anat/sub-54846_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-54846/func/sub-54846_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-54846
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-69397/anat/sub-69397_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-69397/func/sub-69397_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-69397
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-69315/anat/sub-69315_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-69315/func/sub-69315_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-69315
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-29044/anat/sub-29044_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-29044/func/sub-29044_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-29044
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-73317/anat/sub-73317_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-73317/func/sub-73317_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-73317
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-55660/anat/sub-55660_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-55660/func/sub-55660_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-55660
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-76745/anat/sub-76745_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-76745/func/sub-76745_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-76745
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-58874/anat/sub-58874_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-58874/func/sub-58874_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-58874
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-25058/anat/sub-25058_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-25058/func/sub-25058_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-25058
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-49998/anat/sub-49998_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-49998/func/sub-49998_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-49998
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-02953/anat/sub-02953_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-02953/func/sub-02953_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-02953
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-61436/anat/sub-61436_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-61436/func/sub-61436_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-61436
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-43358/anat/sub-43358_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-43358/func/sub-43358_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-43358
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-09397/anat/sub-09397_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-09397/func/sub-09397_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-09397
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-51512/anat/sub-51512_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-51512/func/sub-51512_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-51512
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-15432/anat/sub-15432_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-15432/func/sub-15432_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-15432
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-94304/anat/sub-94304_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-94304/func/sub-94304_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-94304
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-58360/anat/sub-58360_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-58360/func/sub-58360_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-58360
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-27065/anat/sub-27065_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-27065/func/sub-27065_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-27065
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-59434/anat/sub-59434_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-59434/func/sub-59434_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-59434
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-40635/anat/sub-40635_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-40635/func/sub-40635_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-40635
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-24670/anat/sub-24670_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-24670/func/sub-24670_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-24670
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-95644/anat/sub-95644_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-95644/func/sub-95644_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-95644
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-93609/anat/sub-93609_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-93609/func/sub-93609_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-93609
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-06037/anat/sub-06037_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-06037/func/sub-06037_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-06037
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-14194/anat/sub-14194_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-14194/func/sub-14194_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-14194
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-52300/anat/sub-52300_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-52300/func/sub-52300_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-52300
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-82113/anat/sub-82113_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-82113/func/sub-82113_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-82113
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-02591/anat/sub-02591_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-02591/func/sub-02591_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-02591
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-45344/anat/sub-45344_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-45344/func/sub-45344_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-45344
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-20563/anat/sub-20563_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-20563/func/sub-20563_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-20563
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-89435/anat/sub-89435_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-89435/func/sub-89435_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-89435
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-13902/anat/sub-13902_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-13902/func/sub-13902_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-13902
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-78614/anat/sub-78614_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-78614/func/sub-78614_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-78614
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-09633/anat/sub-09633_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-09633/func/sub-09633_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-09633
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-25044/anat/sub-25044_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-25044/func/sub-25044_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-25044
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-87846/anat/sub-87846_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-87846/func/sub-87846_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-87846
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-15172/anat/sub-15172_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-15172/func/sub-15172_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-15172
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-35512/anat/sub-35512_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-35512/func/sub-35512_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-35512
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-17737/anat/sub-17737_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-17737/func/sub-17737_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-17737
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-08947/anat/sub-08947_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-08947/func/sub-08947_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-08947
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-34741/anat/sub-34741_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-34741/func/sub-34741_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-34741
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-16122/anat/sub-16122_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-16122/func/sub-16122_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-16122
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-55114/anat/sub-55114_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-55114/func/sub-55114_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-55114
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-51050/anat/sub-51050_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-51050/func/sub-51050_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-51050
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-23869/anat/sub-23869_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-23869/func/sub-23869_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-23869
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-82435/anat/sub-82435_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-82435/func/sub-82435_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-82435
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-21755/anat/sub-21755_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-21755/func/sub-21755_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-21755
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-64985/anat/sub-64985_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-64985/func/sub-64985_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-64985
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-16390/anat/sub-16390_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-16390/func/sub-16390_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-16390
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-45604/anat/sub-45604_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-45604/func/sub-45604_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-45604
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-45354/anat/sub-45354_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-45354/func/sub-45354_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-45354
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-10619/anat/sub-10619_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-10619/func/sub-10619_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-10619
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-84064/anat/sub-84064_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-84064/func/sub-84064_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-84064
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-27796/anat/sub-27796_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-27796/func/sub-27796_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-27796
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-50454/anat/sub-50454_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-50454/func/sub-50454_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-50454
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-47162/anat/sub-47162_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-47162/func/sub-47162_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-47162
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-72068/anat/sub-72068_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-72068/func/sub-72068_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-72068
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-84504/anat/sub-84504_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-84504/func/sub-84504_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-84504
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-66351/anat/sub-66351_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-66351/func/sub-66351_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-66351
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-18295/anat/sub-18295_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-18295/func/sub-18295_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-18295
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-81562/anat/sub-81562_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-81562/func/sub-81562_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-81562
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-88445/anat/sub-88445_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-88445/func/sub-88445_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-88445
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-00294/anat/sub-00294_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-00294/func/sub-00294_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-00294
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-24757/anat/sub-24757_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-24757/func/sub-24757_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-24757
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-57221/anat/sub-57221_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-57221/func/sub-57221_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-57221
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-39142/anat/sub-39142_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-39142/func/sub-39142_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-39142
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-63412/anat/sub-63412_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-63412/func/sub-63412_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-63412
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-58470/anat/sub-58470_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-58470/func/sub-58470_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-58470
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-08723/anat/sub-08723_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-08723/func/sub-08723_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-08723
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-76631/anat/sub-76631_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-76631/func/sub-76631_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-76631
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-77435/anat/sub-77435_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-77435/func/sub-77435_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-77435
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-52036/anat/sub-52036_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-52036/func/sub-52036_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-52036
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-95959/anat/sub-95959_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-95959/func/sub-95959_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-95959
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-34586/anat/sub-34586_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-34586/func/sub-34586_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-34586
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-29425/anat/sub-29425_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-29425/func/sub-29425_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-29425
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-62908/anat/sub-62908_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-62908/func/sub-62908_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-62908
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-07798/anat/sub-07798_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-07798/func/sub-07798_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-07798
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-69287/anat/sub-69287_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-69287/func/sub-69287_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-69287
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-53193/anat/sub-53193_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-53193/func/sub-53193_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-53193
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-53615/anat/sub-53615_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-53615/func/sub-53615_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-53615
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-53059/anat/sub-53059_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-53059/func/sub-53059_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-53059
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-89107/anat/sub-89107_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-89107/func/sub-89107_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-89107
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-65682/anat/sub-65682_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-65682/func/sub-65682_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-65682
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-82213/anat/sub-82213_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-82213/func/sub-82213_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-82213
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-05453/anat/sub-05453_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-05453/func/sub-05453_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-05453
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-60797/anat/sub-60797_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-60797/func/sub-60797_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-60797
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-23780/anat/sub-23780_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-23780/func/sub-23780_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-23780
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-07413/anat/sub-07413_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-07413/func/sub-07413_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-07413
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-39737/anat/sub-39737_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-39737/func/sub-39737_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-39737
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-15258/anat/sub-15258_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-15258/func/sub-15258_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-15258
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-13216/anat/sub-13216_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-13216/func/sub-13216_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-13216
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-41567/anat/sub-41567_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-41567/func/sub-41567_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-41567
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-92440/anat/sub-92440_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-92440/func/sub-92440_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-92440
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-43304/anat/sub-43304_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-43304/func/sub-43304_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-43304
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-88853/anat/sub-88853_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-88853/func/sub-88853_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-88853
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-93269/anat/sub-93269_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-93269/func/sub-93269_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-93269
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-27230/anat/sub-27230_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-27230/func/sub-27230_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-27230
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-90674/anat/sub-90674_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-90674/func/sub-90674_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-90674
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-08204/anat/sub-08204_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-08204/func/sub-08204_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-08204
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-12346/anat/sub-12346_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-12346/func/sub-12346_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-12346
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-99330/anat/sub-99330_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-99330/func/sub-99330_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-99330
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-78547/anat/sub-78547_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-78547/func/sub-78547_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-78547
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-31522/anat/sub-31522_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-31522/func/sub-31522_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-31522
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-07902/anat/sub-07902_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-07902/func/sub-07902_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-07902
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-98528/anat/sub-98528_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-98528/func/sub-98528_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-98528
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-99085/anat/sub-99085_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-99085/func/sub-99085_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-99085
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-06272/anat/sub-06272_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-06272/func/sub-06272_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-06272
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-13187/anat/sub-13187_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-13187/func/sub-13187_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-13187
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-20543/anat/sub-20543_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-20543/func/sub-20543_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-20543
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-93488/anat/sub-93488_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-93488/func/sub-93488_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-93488
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-04665/anat/sub-04665_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-04665/func/sub-04665_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-04665
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-92288/anat/sub-92288_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-92288/func/sub-92288_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-92288
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-47498/anat/sub-47498_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-47498/func/sub-47498_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-47498
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-88464/anat/sub-88464_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-88464/func/sub-88464_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-88464
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-08588/anat/sub-08588_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-08588/func/sub-08588_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-08588
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-42253/anat/sub-42253_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-42253/func/sub-42253_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-42253
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-01361/anat/sub-01361_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-01361/func/sub-01361_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-01361
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-25099/anat/sub-25099_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-25099/func/sub-25099_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-25099
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-80557/anat/sub-80557_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-80557/func/sub-80557_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-80557
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-55874/anat/sub-55874_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-55874/func/sub-55874_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-55874
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-47278/anat/sub-47278_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-47278/func/sub-47278_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-47278
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-42146/anat/sub-42146_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-42146/func/sub-42146_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-42146
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-18449/anat/sub-18449_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-18449/func/sub-18449_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-18449
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-04187/anat/sub-04187_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-04187/func/sub-04187_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-04187
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-86115/anat/sub-86115_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-86115/func/sub-86115_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-86115
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-41773/anat/sub-41773_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-41773/func/sub-41773_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-41773
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-81289/anat/sub-81289_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-81289/func/sub-81289_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-81289
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-17772/anat/sub-17772_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-17772/func/sub-17772_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-17772
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-60578/anat/sub-60578_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-60578/func/sub-60578_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-60578
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-10268/anat/sub-10268_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-10268/func/sub-10268_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-10268
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-20389/anat/sub-20389_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-20389/func/sub-20389_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-20389
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-78552/anat/sub-78552_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-78552/func/sub-78552_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-78552
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-73477/anat/sub-73477_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-73477/func/sub-73477_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-73477
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-83683/anat/sub-83683_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-83683/func/sub-83683_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-83683
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-68101/anat/sub-68101_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-68101/func/sub-68101_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-68101
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-71849/anat/sub-71849_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-71849/func/sub-71849_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-71849
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-89894/anat/sub-89894_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-89894/func/sub-89894_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-89894
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-90699/anat/sub-90699_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-90699/func/sub-90699_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-90699
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-26348/anat/sub-26348_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-26348/func/sub-26348_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-26348
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-14278/anat/sub-14278_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-14278/func/sub-14278_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-14278
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-27613/anat/sub-27613_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-27613/func/sub-27613_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-27613
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-77989/anat/sub-77989_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-77989/func/sub-77989_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-77989
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-63661/anat/sub-63661_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-63661/func/sub-63661_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-63661
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-84845/anat/sub-84845_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-84845/func/sub-84845_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-84845
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-67117/anat/sub-67117_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-67117/func/sub-67117_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-67117
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-58682/anat/sub-58682_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-58682/func/sub-58682_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-58682
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-37374/anat/sub-37374_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-37374/func/sub-37374_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-37374
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-84256/anat/sub-84256_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-84256/func/sub-84256_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-84256
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-17584/anat/sub-17584_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-17584/func/sub-17584_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-17584
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-98624/anat/sub-98624_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-98624/func/sub-98624_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-98624
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-04270/anat/sub-04270_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-04270/func/sub-04270_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-04270
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-29800/anat/sub-29800_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-29800/func/sub-29800_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-29800
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-39053/anat/sub-39053_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-39053/func/sub-39053_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-39053
+  unique_id: ses-1
+- anat: s3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-53107/anat/sub-53107_T1w.nii.gz
+  creds_path: /work/05254/craddock/hikari/cpac_out/configs/cc-fcp.csv
+  func: {rest:{ scan: 's3://fcp-indi/data/Projects/FCON1000/Cambridge_Buckner/sourcedata/sub-53107/func/sub-53107_task-rest_bold.nii.gz'}}
+  site_id: site-none
+  subject_id: sub-53107
+  unique_id: ses-1
